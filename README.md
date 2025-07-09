@@ -1,3 +1,6 @@
+CREA EL DICCIONARIO DE FUERZA BRUTA CON dic.py Y LUEGO UTILIZA EL ARCHIVO diccionario.txt CREADO, CON EL SCRIPT force.py, INGRESA EL CORREO OUTLOOK DE FORMA AUTOMTICA SE PROBARAN LAS POSIBLES CONTRASENAS CREADAS
+
+
 Dependencias para Generar Diccionario y Ejecutar Script de Fuerza Bruta
 Generar Diccionario
 
@@ -12,11 +15,15 @@ Selenium es una biblioteca de automatización de navegadores web.
 Instalación: pip install selenium
 Controlador de Chrome:
 
-Descarga el controlador de Chrome compatible con tu versión de Chrome desde aquí.
+Descarga el controlador de Chrome compatible con tu versión de Chrome.
+
 Asegúrate de que el controlador esté en tu PATH o especifica la ruta en el script.
 Ejemplo de Instalación
 bash
 pip install selenium
+
 Notas Adicionales
 Asegúrate de tener Python instalado en tu sistema.
 El script de fuerza bruta requiere un navegador web Chrome instalado para funcionar correctamente.
+
+
