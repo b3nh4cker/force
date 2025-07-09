@@ -1,5 +1,6 @@
 Dependencias para Generar Diccionario y Ejecutar Script de Fuerza Bruta
 Generar Diccionario
+
 Para generar el diccionario de contraseñas, no se requieren dependencias adicionales. El script de generación de diccionario utiliza solo bibliotecas estándar de Python.
 
 Ejecutar Script de Fuerza Bruta
